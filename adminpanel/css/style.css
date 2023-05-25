@@ -1,0 +1,95 @@
+body
+{
+	font-family: fantasy;
+	margin: 0px;
+	padding: 0px;
+}
+.btn
+{
+	padding: 10px 15px 10px 15px;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+}
+.sidebar
+{
+	float: left;
+	width: 240px;
+	height: 300px;
+	padding-top: 10px;
+	background-color: white;
+}
+.profile
+{
+	margin-left: 30%;
+	height: 100px;
+	width: 100px;
+	background-color: purple;
+	border-radius: 50%;
+}
+#sidebar-link
+{
+	text-decoration: none;
+	color: grey;
+	margin-left: 55px;
+}
+iframe
+{
+	scroll-behavior: smooth;
+	padding: 0;
+	border: 1px solid #F4F1F1;
+	height: 630px;
+	width: 82%;
+	float: right;
+}
+table 
+{
+  margin: 20px;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: white;
+}
+
+th
+{
+  padding: 20px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+  background-color: black;
+  color: white;
+}
+td
+{
+  padding: 20px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+}
+
+tr:hover {background-color: lightcyan;}
+
+img
+{
+	width: 100px;
+	height: 100px;
+}
+.scroll
+{
+	width: 300px;
+	height: 100px;
+	text-align: justify;
+	margin: 0;
+	padding: 0;
+	overflow-y: scroll;
+}
+.del-edit
+{
+	border: none;
+	background-color: powderblue;
+	padding: 3px;
+	cursor: pointer;
+}
+textarea 
+{
+  vertical-align: top;
+}

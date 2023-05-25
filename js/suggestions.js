@@ -1,0 +1,27 @@
+let suggestions = [
+    "mail",
+    "call",
+    "abstract-shape",
+    "Minus big symbol",
+    "3d cube",
+    "geometric shapes",
+    "arrow right",
+    "Next",
+    "Aarrow",
+    "Shopping bag",
+    "Debit card",
+    "Basket shop",
+    "Shopping bag",
+    "Amazon shopping app",
+    "Instagram",
+    "Twitter",
+    "Database",
+    "SQL",
+    "Copy",
+    "database",
+    "GDPR database",
+    "Update",
+    "Cloud data",
+    "Folder"
+];
+

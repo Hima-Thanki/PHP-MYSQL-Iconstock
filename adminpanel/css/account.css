@@ -1,0 +1,89 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins',sans-serif;
+	background-image: url("../images/bg_bggenerator_com.png");
+}
+.form-reg
+{
+	width: 40%;
+	margin: 30px auto;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 15px;
+	background: white;
+}
+.form
+{
+	width: 30%;
+	margin: 90px auto;
+	padding: 20px;
+	border: 2px solid black;
+	border-radius: 15px;
+	background: white;
+}
+
+.input-group
+{
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label
+{
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+
+.input-group input
+{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 2px solid black;
+}
+
+.btn
+{
+	font-size: 20px;
+	width: 400px;
+	padding: 10px;
+	color: black;
+	background-color: skyblue;
+	border: none;
+}
+.btn-reg
+{
+	font-size: 20px;
+	width: 97%;
+	padding: 10px;
+	color: black;
+	background-color: skyblue;
+	border: none;
+
+}
+
+a
+{
+	color: forestgreen;
+	text-decoration: none;
+}
+
+textarea
+{
+	width: 95%;
+	height: 160px;
+}
+
+.home
+{
+	font-size: 30px;
+	background: none;
+	border: none;
+	margin-top: 10px;
+	margin-left: 10px;
+	color: forestgreen;
+}
